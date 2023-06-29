@@ -3,7 +3,7 @@
         <div class="col-md-5">
             <div class="card card-outline card-navy rounded-0 shadow">
                 <div class="card-header">
-                    <h4 class="card-title">Contact</h4>
+                    <h4 class="card-title">Contact us </h4>
                 </div>
                 <div class="card-body rounded-0">
                     <dl>
